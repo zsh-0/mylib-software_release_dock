@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "project": "mylib-software-release-dock",
+  "source": "github",
+  "version": "1.0.0",
+  "package_name": "mylib-software-release-dock-v1.0.0.exe",
+  "package_parts": [
+    {
+      "name": "mylib-software-release-dock-v1.0.0.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-software_release_dock/releases/download/mylib-software-release-dock-v1.0.0/mylib-software-release-dock-v1.0.0.exe.part001",
+      "sha256": "d5d5325ac39edae731b424b2a52ce1577dd9732762cebb93008ca38a1c841363",
+      "size": 46940971
+    }
+  ],
+  "sha256": "d5d5325ac39edae731b424b2a52ce1577dd9732762cebb93008ca38a1c841363",
+  "size": 46940971,
+  "notes": "V1.0.0\n1、初版发布",
+  "mandatory": false,
+  "published_at": "2026-09-26T09:50:06+00:00"
+}
